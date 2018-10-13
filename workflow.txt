@@ -8,3 +8,5 @@
 6. 多人协作开发
    - 小张开发部分pay-api功能
 7. release 1.1.0 测试，修复bug
+
+8.dev bug修复
